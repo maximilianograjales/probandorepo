@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8778659f-b7d5-45a6-bafa-569b0fd861e7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/classes/pages/HomePageMobile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/classes/pages/LoginByEmailPageMobile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/classes/pages/LoginPageMobile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/classes/pages/MyAccountPageMobile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/dashboard-pages-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard-pages/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/hopper-test-lib2-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/src/main/resources/hopper-test-lib2-1.0-SNAPSHOT.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/hopper-test-lib2-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/dashboard-pages/src/main/resources/hopper-test-lib2-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard-pages/target/dashboard-pages-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/dashboard-pages/target/dashboard-pages-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard-tests/target/dashboard.tests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/dashboard-tests/target/dashboard.tests-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard-pages/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/dashboard-pages/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard-tests/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/dashboard-tests/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,21 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProbandoJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProbandoJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="104" column="34" lean-forward="false" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+            <state relative-caret-position="1247">
+              <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -90,10 +74,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-180" />
+    <option name="x" value="1554" />
+    <option name="y" value="40" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -138,6 +122,58 @@
             <path>
               <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
               <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -152,13 +188,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="probandorepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="probandorepo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,6 +208,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dashboard-pages/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
@@ -329,9 +359,15 @@
     <history-entry file="_Users_maximilianopineyro_Documents_probandorepo_dashboard-tests_src_test_resources_Test_xml - 2018.01.22 at 16h 11m 46s.xml">
       <configuration name="/Users/maximilianopineyro/Documents/probandorepo/dashboard-tests/src/test/resources/Test.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_maximilianopineyro_Documents_probandorepo_dashboard-tests_src_test_resources_Test_xml - 2018.01.22 at 17h 07m 58s.xml">
+      <configuration name="/Users/maximilianopineyro/Documents/probandorepo/dashboard-tests/src/test/resources/Test.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maximilianopineyro_Documents_probandorepo_dashboard-tests_src_test_resources_Test_xml - 2018.01.22 at 17h 10m 04s.xml">
+      <configuration name="/Users/maximilianopineyro/Documents/probandorepo/dashboard-tests/src/test/resources/Test.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4450000" />
+    <option name="totallyTimeSpent" value="5352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
@@ -699,14 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard-tests/src/test/resources/Test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/probandorepo.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -751,6 +779,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard-tests/src/test/resources/Test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProbandoJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -761,8 +797,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="104" column="34" lean-forward="false" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+        <state relative-caret-position="1247">
+          <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
           <folding />
         </state>
       </provider>
