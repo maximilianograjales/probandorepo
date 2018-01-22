@@ -1,6 +1,8 @@
 package tests;
 
 import classes.AbstractMobileTest;
+import io.appium.java_client.AppiumDriver;
+import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.Assert;
@@ -18,6 +20,14 @@ public class LoginMobileTest extends AbstractMobileTest {
     MyAccountPageMobile myAccountPageMobile = loginUserByEmailMobileToMyAccount();
     Assert.assertTrue(myAccountPageMobile.isUserLogged(), "Usuario no se logueó con email");
     LOGGER.info("Usuario logueado con email correctamente");
+  }
+
+  public WebDriver succesfulLoginTest(AppiumDriver driver) throws Exception {
+    setDriver(driver);
+    succesfulLogin();
+    WebDriver driverToPass = getDriver();
+    setDriver(null);
+    return driverToPass;
   }
 
 }
