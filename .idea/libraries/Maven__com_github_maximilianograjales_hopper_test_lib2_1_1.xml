@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.maximilianograjales:hopper-test-lib2:1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/maximilianograjales/hopper-test-lib2/1.1/hopper-test-lib2-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/maximilianograjales/hopper-test-lib2/1.1/hopper-test-lib2-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/maximilianograjales/hopper-test-lib2/1.1/hopper-test-lib2-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
