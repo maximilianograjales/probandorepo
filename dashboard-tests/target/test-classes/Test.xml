@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite data-provider-thread-count="1" name="AWS Automation Test">
+
+  <test allow-return-values="true" name="AWS Test">
+    <classes>
+      <class name="LoginMobileTest">
+        <methods>
+          <include name="succesfulLogin"></include>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

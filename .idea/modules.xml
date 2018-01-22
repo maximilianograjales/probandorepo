@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dashboard-pages/dashboard-pages.iml" filepath="$PROJECT_DIR$/dashboard-pages/dashboard-pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard-tests/dashboard-tests.iml" filepath="$PROJECT_DIR$/dashboard-tests/dashboard-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probandorepo.iml" filepath="$PROJECT_DIR$/probandorepo.iml" />
+    </modules>
+  </component>
+</project>
