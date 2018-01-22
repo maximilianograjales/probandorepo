@@ -16,7 +16,7 @@
   <repositories>
     <repository>
       <id>my-local-repo</id>
-      <url>file://dashboard-pages/src/main/resources/hopper-test-lib2-1.0-SNAPSHOT.jar</url>
+      <url>file://${basedir}/src/main/resources/hopper-test-lib2-1.0-SNAPSHOT.jar</url>
     </repository>
   </repositories>
 
