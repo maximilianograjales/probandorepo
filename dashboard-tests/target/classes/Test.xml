@@ -4,7 +4,7 @@
 
   <test allow-return-values="true" name="AWS Test">
     <classes>
-      <class name="LoginMobileTest">
+      <class name="tests.LoginMobileTest">
         <methods>
           <include name="succesfulLogin"></include>
         </methods>
